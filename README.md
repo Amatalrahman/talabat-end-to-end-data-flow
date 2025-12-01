@@ -1,3 +1,6 @@
+![Image](https://github.com/user-attachments/assets/82030384-6f8d-4ac4-8be6-d1a5fcb144ad)
+
+
 # talabat-end-to-end-data-flow
 
 A Structured Analysis of Data Sources, Architecture, and Processing Pipelines
@@ -67,8 +70,7 @@ A high-level data pipeline diagram illustrating:
 - Storage architecture  
 - Processing components  
 - Serving/consumption layers  
-
-(Available as `Talabat_Data_Diagram.png`)
+<img width="1558" height="368" alt="Image" src="https://github.com/user-attachments/assets/35f2d7ac-9020-455a-8349-485baa65496a" />
 
 ---
 
@@ -78,7 +80,7 @@ It does not claim to represent Talabat’s exact internal systems; rather, it mo
 
 ---
 
-## 📚 References
+## References
 - AWS Talabat case study  
 - Delivery Hero engineering blogs  ( a mother company of talabat )
 - Publicly available technical summaries  
