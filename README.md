@@ -1,6 +1,4 @@
-![Image](https://github.com/user-attachments/assets/82030384-6f8d-4ac4-8be6-d1a5fcb144ad)
-
-
+![Image](https://github.com/user-attachments/assets/541ab4e0-8bec-4692-b7da-d198231a929c)
 # talabat-end-to-end-data-flow
 
 A Structured Analysis of Data Sources, Architecture, and Processing Pipelines
